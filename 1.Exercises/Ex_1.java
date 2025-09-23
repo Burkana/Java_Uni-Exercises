@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Ex_1{
+public class Ex_1{
     public static void main(String[] args){
       try (Scanner sc = new Scanner(System.in)) {
         System.out.print("Enter the distance you want to travel: ");
