@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "5.Exercises",
         "4.Exercises",
         "3.Exercises",
         "2.Exercises",
         "1.Exercises",
-        "5.Exercises"
+        "6.Exercises"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

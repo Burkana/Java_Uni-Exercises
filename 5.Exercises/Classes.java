@@ -1,3 +1,4 @@
+import java.util.*;
 public class Classes {
 
 public class Hospital {
@@ -61,6 +62,5 @@ String location;
 public class Surgeon extends Doctor{}
 
 public static void main(String args[]){
-
 }
 }
