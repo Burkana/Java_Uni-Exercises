@@ -67,7 +67,8 @@ public class OnlineLibrary {
         System.out.println(book.title + book.author + book.releaseYear + " " + book.price + " " +  book.totalCopies);
         System.out.println(fbok.title + fbok.author + fbok.releaseYear + " " + fbok.price + " " + fbok.totalCopies + fbok.genre);
         System.out.println(nfbook.title + nfbook.author + nfbook.releaseYear + " " + nfbook.price + " " +  nfbook.totalCopies + nfbook.subject);
-        System.out.println(book.sellBook(10));
+        System.out.println(book.sellBook(10)); 
+        
 
     }
 }
